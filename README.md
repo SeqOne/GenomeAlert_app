@@ -46,8 +46,8 @@ In addition to this repository, you will need to add 3 output files from Genome 
 --------------------------------------------------------------------------------
 *Genome Alert! is a collaboration of :* 
 
-[![SeqOne](img/logo-seqone.png)](https://seq.one/) 
+[![SeqOne](www/logo-seqone.png)](https://seq.one/) 
 
-[![Université Grenoble Alpes](img/logo-uga.png)](https://iab.univ-grenoble-alpes.fr/) 
+[![Université Grenoble Alpes](www/logo-uga.png)](https://iab.univ-grenoble-alpes.fr/) 
 
-[![CHU de Rouen](img/logo-CHU.png)](https://www.chu-rouen.fr/service/service-de-genetique/)
+[![CHU de Rouen](www/logo-CHU.png)](https://www.chu-rouen.fr/service/service-de-genetique/)
