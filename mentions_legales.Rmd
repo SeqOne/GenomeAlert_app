@@ -1,0 +1,78 @@
+---
+title: "Mentions légales Genome Alert!"
+author : Kévin Yauy 
+date : "`r format(Sys.time(), '%d %B, %Y')`"
+output: 
+  html_document:
+    toc: true
+    toc_depth: 4
+    toc_float: true
+    number_sections: true
+    theme: flatly
+    highlight: tango
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Vous visitez un site Internet de l’ Institut pour l'Avancée des Biosciences (IAB) :  
+> Centre de Recherche UGA / Inserm U 1209 / CNRS UMR 5309  
+Site Santé - Allée des Alpes   
+38700 La Tronche  
++33 (0)4 76 54 94 49  
+Unité de recherche 201622378J
+
+# Informations éditoriales
+- Directeur de la publication : Directeur IAB, Pierre Hainaut
+- Responsables éditoriaux : Kevin Yauy, Julien Thevenon et Nicolas Philippe
+- Webmestre : [Kevin Yauy](mailto:kevin.yauy@univ-grenoble-alpes.fr)
+- Hébergeur : GRICAD, Universite Grenoble Alpes
+
+- Délégué à la protection des Données  
+Contact : [DPO](mailto:DPO@grenet.fr)
+
+Les mentions légales qui suivent s'appliquent à tout internaute visitant le site. Nous vous remercions d'en prendre connaissance attentivement avant tout accès aux pages contenues dans ce site.  
+L’IAB se réserve le droit de modifier le contenu des sites à tout moment et sans préavis et ne pourra être tenu responsable des conséquences de telles modifications. L'accès et l'utilisation de ce site est soumise aux conditions suivantes ainsi qu'aux dispositions légales en vigueur. En accédant au site, vous acceptez, sans limitation ni réserves, ces conditions.
+
+# Droits d’auteur et copyright
+
+L'ensemble de ce site relève de la législation française et internationale sur le droit d'auteur et la propriété intellectuelle.  
+Toutes les images, marques, logos, noms de domaine et information sous forme de texte ou d'image présents sur le site sont la propriété de l’Universite Grenoble Alpes, le CHU Grenoble Alpes et SeqOne ou font l'objet d'une autorisation d'utilisation. Toute utilisation par reproduction, modification, téléchargement, transmission ou autre procédé existant présent ou futur est soumise à autorisation écrite préalable (courrier, courriel, fax). Seules les copies à usage privé et non-commercial sont autorisées sous réserve du respect des trois conditions suivantes :  
+- gratuité de la diffusion ;  
+- respect de l'intégrité des documents reproduits : pas de modification ni altération d'aucune sorte ;  
+- ajout de façon claire et lisible de la source (URL du document original en ligne sur le site) et de la mention suivante :  
+"© <Genome Alert! - UGA, CHUGA & SeqOne> - droits réservés".
+
+Pour tout autre demande sur support papier ou électronique contacter :  
+> Kevin Yauy  
+[Courriel](kevin.yauy@univ-grenoble-alpes.fr)
+
+Toutes les informations personnelles collectées sont soumises au RGPD et à la loi du 6 janvier 1978 modifiée dite « Informatique et libertés » et font l'objet d'une instruction de conformité.  
+Quand vous naviguez sur ce site, chaque clic sur un lien correspond à un ordre adressé au serveur du site. Ces requêtes sont transmises et conservées dans un journal de connexion appelé aussi "fichier de log". Ces fichiers ne sont utilisés que pour assurer la bonne marche du système ou rechercher l’origine de tentatives de compromission du site, selon la législation en vigueur.  
+
+Conformément à la loi vous disposez notamment d’un droit d’accès, de rectification et d’opposition aux données vous concernant que vous pouvez exercer en contactant :  
+> Kevin Yauy  
+[Courriel](kevin.yauy@univ-grenoble-alpes.fr)
+
+Vous disposez aussi du droit d’introduire une réclamation auprès de l’autorité de contrôle nationale.  
+La liberté d’accès aux données à caractère personnels présentes sur ce site (annuaire) n’en confère pas une liberté de collecte ou d’exploitation de ces données.  
+
+# Statistiques
+
+Ce site utilise Google Analytics, un service d'analyse de site internet fourni par Google Inc. (« Google »). Google Analytics utilise des cookies, qui sont des fichiers texte placés sur votre ordinateur, pour aider le site internet à analyser l'utilisation du site par ses utilisateurs. Les données générées par les cookies concernant votre utilisation du site (y compris votre adresse IP) seront transmises et stockées par Google sur des serveurs situés aux Etats-Unis. Google utilisera cette information dans le but d'évaluer votre utilisation du site, de compiler des rapports sur l'activité du site à destination de son éditeur et de fournir d'autres services relatifs à l'activité du site et à l'utilisation d'Internet. Google est susceptible de communiquer ces données à des tiers en cas d'obligation légale ou lorsque ces tiers traitent ces données pour le compte de Google, y compris notamment l'éditeur de ce site. Google ne recoupera pas votre adresse IP avec toute autre donnée détenue par Google. Vous pouvez désactiver l'utilisation de cookies en sélectionnant les paramètres appropriés de votre navigateur. Cependant, une telle désactivation pourrait empêcher l'utilisation de certaines fonctionnalités de ce site. En utilisant ce site internet, vous consentez expressément au traitement de vos données nominatives par Google dans les conditions et pour les finalités décrites ci-dessus.  
+
+# Liens et création de liens
+Le site de l’IAB autorise la mise en place d’un lien hypertexte pointant vers son contenu sous réserve :
+- de ne pas utiliser d’éléments du Site à l’intérieur d’un autre site par le biais d’inclusions, de cadres, d’inlining ou de procédés similaires.  
+- de ne pas utiliser la technique du lien profond dit « deep linking »pour pointer notamment vers des documents graphiques, multimédia ou animés (format jpeg, gif, etc.) ou tout autre document texte (format txt, doc, rtf, pdf, etc.), que ceux-ci soient téléchargeables ou non.  
+- que la balise du lien mentionne « Genome Alert! - UGA, CHUGA & SeqOne ».  
+- Sont exclus de cette autorisation les sites diffusant des informations à caractère illicite, violent, polémique, pornographique, xénophobe ou pouvant porter atteinte à la sensibilité du plus grand nombre.
+
+Afin de faciliter l’accès à d’autres sites susceptibles d’apporter un complément d’information, l’IAB a inséré dans son site un certain nombre de liens hypertexte. Néanmoins, sa responsabilité ne saurait être engagée au titre d’un site tiers auquel un usager aurait eu accès via notre site et présentant des contenus litigieux ou inexacts.
+
+# Crédits
+- Conception du site : Université Grenoble Alpes, CHU Grenoble Alpes & SeqOne  
+- Logiciel : Université Grenoble Alpes, CHU Grenoble Alpes & SeqOne  
+- Photographies : Université Grenoble Alpes, CHU Grenoble Alpes & SeqOne  
+
