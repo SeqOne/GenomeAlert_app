@@ -9,7 +9,7 @@ library(htmlwidgets)
 library(markdown)
 
 # Parse data
-clinvarome <- read_delim("www/clinvar_GRCh38_2020-11_clinvarome_annotation.tsv",delim="\t",col_names = TRUE)
+clinvarome <- read_delim("www/clinvar_GRCh38_2021-01_clinvarome_annotation.tsv",delim="\t",col_names = TRUE)
 clinvar_gene <- read_delim("www/compare-gene_total.tsv", delim="\t", col_names = TRUE)
 clinvar_variant <- read_delim("www/compare-variant_total.tsv", delim="\t", col_types = cols(clinvar_id = col_character()), col_names = TRUE)
 
